@@ -5,7 +5,8 @@
 Compatible with OpenCart 3.x versions.
 
 ## Features
-* Allows to select another default currency for the store frontend.
+* Choosing a different default currency for the store frontend interface.
+* Using this currency with the `Google Base` module.
 * Does not modify system files (OCMOD).
 
 ## License
